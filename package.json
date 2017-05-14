@@ -24,7 +24,7 @@
     "bluebird": "^3.0.5",
     "cheerio": "^0.20.0",
     "co": "^4.6.0",
-    "coffee-script": "^1.9",
+    "coffee-script": "^1.12.5",
     "debug": "*",
     "diff": "*",
     "expand-url": "^0.1.3",
