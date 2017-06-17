@@ -25,7 +25,7 @@ config =
       'ボーキメシ！！'
       'ジャッスティス！！！'
       'http://www.currymeshi.com'
-      'http://gyazo.com/fc6c4a6f74d41ee472948c35d7ab1d45.png'
+      'https://gyazo.com/fc6c4a6f74d41ee472948c35d7ab1d45/raw'
       'https://www.youtube.com/watch?v=vhSBtoviSKw'
     ]
     ratio: 0.3
@@ -60,8 +60,9 @@ config =
       /進捗/i
     ]
     reply: [
-      'http://gyazz.com/upload/0812c2f2a5aaa0456243cad84ff93a51.gif'
-      'http://gyazz.com/upload/2443a25d349ea480c5d511cfbf39292a.png'
+      'https://gyazo.com/9376e42235fbd2ae1c87f1eab10802c9/raw'
+      'https://gyazo.com/2443a25d349ea480c5d511cfbf39292a/raw'
+      'https://gyazo.com/c46ec4e2740bb0c86aa58fae38b18864/raw'
     ]
   PHP:
     hear: [
@@ -70,14 +71,14 @@ config =
     reply: [
       'php..ﾏｽﾄﾀﾞｰｲ..'
       '殺せ、PHPだ'
-      'PHPを使うものは腹を切って死ぬべきである。詳しくは http://gyazz.com/増井研/PHP を読んで熟知すべし'
+      'PHPを使うものは腹を切って死ぬべきである。詳しくは https://scrapbox.io/masuilab/PHP を読んで熟知すべし'
       'PHPもいいところあるんですよぉ'
       'sudo rm /usr/bin/php'
       'その、拡張子でPHP使ってる事アピールするの何か意味あるんですか？'
       'PHP is evil'
-      'http://gyazo.com/c0e830968217f4c41ab6e0c7ded1a62c.png'
-      'http://gyazo.com/358c5cdb80388d51c0c8fac9a3fc08fe.png'
-      'https://38.media.tumblr.com/tumblr_lul2zbQ3w41qz5devo1_400.gif'
+      'https://gyazo.com/c0e830968217f4c41ab6e0c7ded1a62c/raw'
+      'https://gyazo.com/358c5cdb80388d51c0c8fac9a3fc08fe/raw'
+      'https://gyazo.com/48a249354b0aef2ff76dc937d4305444/raw'
     ]
   わかる:
     hear: [
@@ -88,14 +89,14 @@ config =
       /^合点$/i
     ]
     reply: [
-      "https://gyazo.com/cf539d217b04a907c0a2ebe700479f2a.png"
-      "https://gyazo.com/4782005540d5f7f1f08d7b5a2650d0a7.png"
-      "https://gyazo.com/d199cacc0fb79909087cd2224957bbde.png"
-      "https://gyazo.com/e3b8c028df43cfaf5c8bff15f2c2bec0.png"
-      "https://gyazo.com/46ad24d46904a21cda6e644d23300ec2.png"
-      "https://gyazo.com/190fe0af852442ae98fd4f1de4d63987.png"
-      "https://gyazo.com/f0a2bec554a7d491e3ed56b61d718367.png"
-      "https://gyazo.com/c22f8e1a3860de61e209c4e54e5e766f.png"
+      "https://gyazo.com/cf539d217b04a907c0a2ebe700479f2a/raw"
+      "https://gyazo.com/4782005540d5f7f1f08d7b5a2650d0a7/raw"
+      "https://gyazo.com/d199cacc0fb79909087cd2224957bbde/raw"
+      "https://gyazo.com/e3b8c028df43cfaf5c8bff15f2c2bec0/raw"
+      "https://gyazo.com/46ad24d46904a21cda6e644d23300ec2/raw"
+      "https://gyazo.com/190fe0af852442ae98fd4f1de4d63987/raw"
+      "https://gyazo.com/f0a2bec554a7d491e3ed56b61d718367/raw"
+      "https://gyazo.com/c22f8e1a3860de61e209c4e54e5e766f/raw"
     ]
     ratio: 0.4
   質問:
@@ -106,15 +107,14 @@ config =
     ]
     reply: [
       'ぐぐれカス〜'
-      'http://gyazo.com/205adeb36e6542c6db29f571452166fa.png'
+      'https://gyazo.com/205adeb36e6542c6db29f571452166fa/raw'
       'まあ落ち着け http://games.kids.yahoo.co.jp/sports/013.html'
       'コード書けばいいじゃん'
-      'hubot 教えて [単語] で調べれるよ'
-      "https://gyazo.com/cf539d217b04a907c0a2ebe700479f2a.png"
-      "https://gyazo.com/4782005540d5f7f1f08d7b5a2650d0a7.png"
-      "https://gyazo.com/d199cacc0fb79909087cd2224957bbde.png"
-      "https://gyazo.com/e3b8c028df43cfaf5c8bff15f2c2bec0.png"
-      "https://i.gyazo.com/0df07d38f8aba8af7371a8d99fbf5215.jpg"
+      "https://gyazo.com/cf539d217b04a907c0a2ebe700479f2a/raw"
+      "https://gyazo.com/4782005540d5f7f1f08d7b5a2650d0a7/raw"
+      "https://gyazo.com/d199cacc0fb79909087cd2224957bbde/raw"
+      "https://gyazo.com/e3b8c028df43cfaf5c8bff15f2c2bec0/raw"
+      "https://gyazo.com/0df07d38f8aba8af7371a8d99fbf5215/raw"
       "ここは、心のリアクションがわかる世界\nhttp://wakaru.3memo.com/masuilab"
     ]
     ratio: 0.1
@@ -173,8 +173,8 @@ config =
       /佐竹/
     ]
     reply: [
-      'https://gyazo.com/575ea914c736ee510b90f831775d131d.png'
-      'https://gyazo.com/ec5a00201b3ee41de58bb0fe8f827090.png'
+      'https://gyazo.com/575ea914c736ee510b90f831775d131d/raw'
+      'https://gyazo.com/ec5a00201b3ee41de58bb0fe8f827090/raw'
       ':kotakemukaihara:'
       '🈂 :take: :mukai: :hara:'
       (msg) ->
