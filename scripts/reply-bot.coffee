@@ -72,7 +72,6 @@ config =
       'php..ﾏｽﾄﾀﾞｰｲ..'
       '殺せ、PHPだ'
       'PHPを使うものは腹を切って死ぬべきである。詳しくは https://scrapbox.io/masuilab/PHP を読んで熟知すべし'
-      'PHPもいいところあるんですよぉ'
       'sudo rm /usr/bin/php'
       'その、拡張子でPHP使ってる事アピールするの何か意味あるんですか？'
       'PHP is evil'
@@ -164,6 +163,7 @@ config =
       'https://www.flickr.com/photos/shokai/8178681503/'
       'https://www.flickr.com/photos/shokai/7575397070/'
       'https://www.flickr.com/photos/shokai/5148760554/'
+      'https://gyazo.com/60d9aece9b52e374ad176a15d4f3cfd8'
     ]
     ratio: 0.6
   小竹向原:
