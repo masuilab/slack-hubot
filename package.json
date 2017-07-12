@@ -74,8 +74,8 @@
     "supertest": "*"
   },
   "engines": {
-    "node": "5.x",
-    "npm": "3.x"
+    "node": "8.x",
+    "npm": "5.x"
   },
   "config": {
     "coveralls": {
