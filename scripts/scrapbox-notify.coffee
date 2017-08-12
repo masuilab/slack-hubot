@@ -18,7 +18,7 @@ module.exports = (robot) ->
 
     for att in attachments
       if att.title_link
-        link = decodeURI(att.title_link).replace(/ /g, '%20')
+        link = decodeURI(att.title_link).replace(/ /g, '_')
         text = "#{config.header} #{link}\n"
         text += replace_slackMarkup(att.text.trim()) if att.text
         robot.send {room}, text
