@@ -2,7 +2,7 @@
 #   lindaでドアを開ける
 #
 # Commands:
-#   hubot 開けて
+#   開けろ
 #
 # Author:
 #   @shokai
@@ -11,7 +11,7 @@ module.exports = (robot) ->
 
   robot.on 'linda:ready', (linda) ->
 
-    robot.respond /開けて/i, (msg) ->
+    robot.hear /^開けろ$/, (msg) ->
       who = msg.message.user.name
       where = "delta"
       cmd = "open"
