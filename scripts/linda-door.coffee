@@ -11,7 +11,7 @@ module.exports = (robot) ->
 
   robot.on 'linda:ready', (linda) ->
 
-    robot.hear /^開けろ$/, (msg) ->
+    robot.hear /開けろ$/, (msg) ->
       who = msg.message.user.name
       where = "delta"
       cmd = "open"
