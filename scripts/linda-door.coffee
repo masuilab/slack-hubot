@@ -36,8 +36,7 @@ module.exports = (robot) ->
 
     robot.respond /(ドア|door)/i, (msg) ->
       msg.send """
-      hubotでドアを開ける・閉める
-      (例)
-      hubot 開けて
+      hubotでドアを開ける
+      ただ「開けろ」と発言すれば、開きます
       """
       return
